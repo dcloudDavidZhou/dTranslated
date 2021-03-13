@@ -1,3 +1,3 @@
 # dTranslated
-deep_translator </br>
-deep_translator
+In cmd run: pip3 install deep_translator </br>
+In cmd run: pip3 install tmdbv3api </br>
